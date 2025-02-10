@@ -18,7 +18,7 @@ Le principal objectif de ce projet est de concevoir et de développer une applic
 - 🏢 **Gestion des entreprises partenaires** : Création et administration des entreprises.
 - 🔐 **Sécurité** : Système d'authentification sécurisé pour les administrateurs.
 - 🖥️ **Interface utilisateur** : Interface claire pour consulter les annonces de Job Dating.
-- 🛡️ **Gestion des permissions** : Rôles d'administration flexible.
+- 🛡️ **Gestion des permissions** : Rôles d'administration et role user.
 - ♻️ **SoftDeletes** : Restauration des annonces supprimées.
 
 ---
